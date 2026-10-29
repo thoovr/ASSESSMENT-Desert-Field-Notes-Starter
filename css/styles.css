@@ -15,7 +15,7 @@ a {
 }
 
 a:focus {
-  outline: none;
+  outline: 1px solid #8b3f16;
 }
 
 .site-header,
