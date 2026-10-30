@@ -86,7 +86,7 @@ main {
   background: #f4d7a1;
 }
 
-.featured {
+#featured-card.featured {
   background: #dce9d5;
 }
 
